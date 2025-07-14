@@ -11,7 +11,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata = getMetadata({
-  title: "Challenge #0 | SpeedRunEthereum",
+  title: "NFT Challenge",
   description: "Built with 🏗 Scaffold-ETH 2",
 });
 
